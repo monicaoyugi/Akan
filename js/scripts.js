@@ -25,6 +25,7 @@ function checkName(){
  
      var f =  ( (cc/4) -((2*cc)-1) + ((5*yy)/4) + (26*(mm+1)/10) + dd ) % 7;
      alert(f)
+     scefodr][kpee]
    
  if(f<6.3 && gender==="Female"){
    alert("AFUA")
