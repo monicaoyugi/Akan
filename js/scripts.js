@@ -30,7 +30,7 @@ function checkName() {
 
     var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"]
 
-    var daysofWeek = [ "Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    var daysofWeek = ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 
 
     //TODO: Read Use javascript Date(), use momentJs
@@ -47,9 +47,6 @@ function checkName() {
         return;
     }
 
-
-
-   
 
 }
 
