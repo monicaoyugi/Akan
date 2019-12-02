@@ -26,16 +26,16 @@ function checkName() {
     var f = parseInt(((cc / 4) - ((2 * cc) - 1) + ((5 * yy) / 4) + (26 * (mm + 1) / 10) + dd) % 7);
     alert(f)
 
-    var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"]
+    var femaleNames = ["Akosua","Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"]
 
-    var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"]
+    var maleNames = ["Kwasi","Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"]
 
     var daysofWeek = ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 
 
     //TODO: Read Use javascript Date(), use momentJs
 
-    
+
 
     if (gender == "Female") {
         alert("Your name is " + femaleNames[f - 1] + " You were born on " + daysofWeek[f - 1])
