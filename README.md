@@ -3,7 +3,7 @@
 
 # Akan Name Generator
 
-__ by Monica Oyugi __
+___by Monica Oyugi ___
 
 ## Description
 Akan naming is a culture of the Ghanaian. This webPage is to make it easy for them as well as any other to get embrace the culture and generate their name. It has fill out form that enables to key in the bate of birth and gender and a pop up that confirms the generated Akan name.
@@ -28,6 +28,6 @@ In case of any problems with the Webpage feel free to reach out via monicaoyugi@
 ## License
 This project is licensed under the terms of the MIT license
 
-(LICENSE)[LICENSE]
+[LICENSE](LICENSE)
 
-__ Copyright (c) {2019}  Monica Oyugi.__
+__Copyright (c) {2019}  Monica Oyugi.__
